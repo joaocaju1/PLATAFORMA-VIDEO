@@ -11606,7 +11606,7 @@ html {
     width: 60vw;
   }
   .profile .profile-img {
-    height: 65vw;
+    height: 20vw;
   }
 
 }
@@ -11616,7 +11616,7 @@ html {
     width: 50vw;
   }
   .profile .profile-img {
-    height: 55vw;
+    height: 22vw;
   }
 }
 @media (min-width: 992px) {
@@ -11625,7 +11625,7 @@ html {
     width: 40vw;
   }
   .profile .profile-img {
-    height: 45vw;
+    height: 5vw;
   }
 }
 @media (min-width: 1200px) {
@@ -11634,6 +11634,6 @@ html {
     width: 35vw;
   }
   .profile .profile-img {
-    height: 40vw;
+    height: 20vw;
   }
 }
